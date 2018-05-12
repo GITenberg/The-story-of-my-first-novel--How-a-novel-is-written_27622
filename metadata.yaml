@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6509
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Wolfe_Hungerford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27622#The-story-of-my-first-novel--How-a-novel-is-written
 gutenberg_issued: '2008-12-25'
 gutenberg_type: Text
 identifiers:
